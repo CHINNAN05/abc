@@ -3,3 +3,4 @@ The Arduino Uno Magnetic Sensor detects changes in magnetic fields. It typically
 chinnan ece
 HELLO WORD THIS IS MY PROGRAM 
 
+ENNA PANNURATHU
